@@ -1,6 +1,6 @@
 # Folha de Exercícios - Java
 
-> **Objetivo:** praticar sintaxe, orientação a objetos e estruturas comuns em Java. Não use IA para gerar a solução final. Escreva manualmente para memorizar os padrões da linguagem.
+> **Objetivo:** praticar sintaxe, orientação a objetos e estruturas comuns em Java. Não use IA para gerar a solução final. Escreva manualmente para memorizar os padrões da linguagem. Fique a vontade para fazer pesquisas na internet, mas tente não encontrar respostas prontas.
 
 ## Como resolver cada exercício
 
