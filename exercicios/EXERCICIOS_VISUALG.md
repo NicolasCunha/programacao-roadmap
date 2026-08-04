@@ -1,6 +1,6 @@
 # Folha de Exercícios - VisuAlg
 
-> **Objetivo:** praticar lógica de programação em VisuAlg com exercícios progressivos. Não use IA para gerar o algoritmo final. Primeiro tente escrever os passos em português, depois transforme os passos em código.
+> **Objetivo:** praticar lógica de programação em VisuAlg com exercícios progressivos. Não use IA para gerar o algoritmo final. Primeiro tente escrever os passos em português, depois transforme os passos em código. Fique a vontade para fazer pesquisas na internet, mas tente não encontrar respostas prontas.
 
 ## Como resolver cada exercício
 
