@@ -7,12 +7,12 @@ Este repositório organiza uma trilha de estudos para pessoas que estão começa
 - [ ] [Nível 1 - Fundamentos com VisuAlg](./NIVEL_1_FUNDAMENTOS_VISUALG.md)
 - [ ] [Nível 2 - Desenvolvedor Java](./NIVEL_2_DESENVOLVEDOR_JAVA.md)
 - [ ] [Nível 3 - Dados, Qualidade, APIs e Mercado](./NIVEL_3_DADOS_QUALIDADE_MERCADO.md)
-- [ ] [Folha de Exercícios - VisuAlg](./EXERCICIOS_VISUALG.md)
-- [ ] [Folha de Exercícios - Java](./EXERCICIOS_JAVA.md)
-- [ ] [Folha de Exercícios - SQL](./EXERCICIOS_SQL.md)
-- [ ] [Respostas - VisuAlg](./RESPOSTAS_VISUALG.md)
-- [ ] [Respostas - Java](./RESPOSTAS_JAVA.md)
-- [ ] [Respostas - SQL](./RESPOSTAS_SQL.md)
+- [ ] [Folha de Exercícios - VisuAlg](./exercicios/EXERCICIOS_VISUALG.md)
+- [ ] [Folha de Exercícios - Java](./exercicios/EXERCICIOS_JAVA.md)
+- [ ] [Folha de Exercícios - SQL](./exercicios/EXERCICIOS_SQL.md)
+- [ ] [Respostas - VisuAlg](./exercicios/RESPOSTAS_VISUALG.md)
+- [ ] [Respostas - Java](./exercicios/RESPOSTAS_JAVA.md)
+- [ ] [Respostas - SQL](./exercicios/RESPOSTAS_SQL.md)
 
 ## Recomendação sobre uso de IA
 
