@@ -13,9 +13,6 @@ Este repositório organiza uma trilha de estudos para pessoas que estão começa
 - [ ] [Respostas - VisuAlg](./RESPOSTAS_VISUALG.md)
 - [ ] [Respostas - Java](./RESPOSTAS_JAVA.md)
 - [ ] [Respostas - SQL](./RESPOSTAS_SQL.md)
-- [ ] [Respostas - VisuAlg](./RESPOSTAS_VISUALG.md)
-- [ ] [Respostas - Java](./RESPOSTAS_JAVA.md)
-- [ ] [Respostas - SQL](./RESPOSTAS_SQL.md)
 
 ## Recomendação sobre uso de IA
 
