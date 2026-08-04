@@ -1,6 +1,6 @@
 # Folha de Exercícios - SQL
 
-> **Objetivo:** praticar modelagem relacional e SQL usando MySQL. O foco é criação de tabelas, chaves, relações e consultas. Não é necessário usar PL/SQL.
+> **Objetivo:** praticar modelagem relacional e SQL usando MySQL. O foco é criação de tabelas, chaves, relações e consultas. Não é necessário usar PL/SQL. Fique a vontade para fazer pesquisas na internet, mas tente não encontrar respostas prontas.
 
 ## Como resolver cada exercício
 
